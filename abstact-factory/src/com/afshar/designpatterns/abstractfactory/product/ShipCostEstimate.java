@@ -1,4 +1,4 @@
-package com.afshar.designpatterns.factorymethod.product;
+package com.afshar.designpatterns.abstractfactory.product;
 
 public class ShipCostEstimate implements CostEstimate {
     @Override
