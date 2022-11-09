@@ -14,3 +14,5 @@
 4. Lazy init (Method Threat-Safe) ==> `MethodThreadSafeSingletonLazy.class`
 5. Lazy Init (Double Check Locking Threat-Safe) ==> `DoubleCheckLockingSingleton.class`
 6. InnerClass (Lazy Threat-Safe) ==> `InnerClassSingleton.class`
+
+![](resource/structure-en.png)
